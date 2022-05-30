@@ -22,7 +22,7 @@
 }
 
 body {
-    max-width: 100vw;
+    width: 100vw;
     overflow-x: hidden;
     font-family: 'Barlow', sans-serif;
     text-align: center;
@@ -90,7 +90,7 @@ header {
 .intro h1 {
     color: var(--White);
     font-family: var(--Font-title);
-    font-size: 4rem;
+    font-size: 3.5rem;
     letter-spacing: 8px;
     margin: 4rem 0;
 }
